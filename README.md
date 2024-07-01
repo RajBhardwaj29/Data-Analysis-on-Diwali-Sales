@@ -1,5 +1,3 @@
-# Data-Analysis-on-Diwali-Sales
-
 PYTHON SALES ANALYSIS
 
 This project utilizes Python and its libraries namely NUMPY, SEABORN, MATLPLOTLIB, and PANDAS, for EXPLORATORY DATA ANALYSIS.
@@ -31,5 +29,6 @@ Here, you use two variables and compare them. This way, you can find how one fea
 
 Then Reaching conclusions, such as in our case we analyzed the sales reports and derived the conclusion for it.
 ![alt text](https://github.com/Aditya-Mandothia/Data-Analysis/blob/926a1f2db88e0a4509f648824c7bf0e08343ea2b/Screenshot%20(81).png)
+
 
 
